@@ -4,13 +4,13 @@
 
 ## 🧑‍💻 About Me 
 - 🎓 **Education**: PhD in Management Science and Engineering from University of Science and Technology of China, and bachelor in Business Administration from Central China Normal University
-- 📚 **Currently Learning**: Coding skills and machine learning techniques and model deployment  
+- 📚 **Currently Learning**: Coding skills and machine learning techniques 
 - 🏆 **Goal**: Using coding skills and business analysis methods to create innovative solutions that drive business decisions
 
 ## 🔧 Technical Skills  
 
 - **Programming Languages**: Python 
-- **Libraries & Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Libraries & Frameworks**: Pandas, NumPy, Seaborn, Scikit-learn  
 - **Tools**: Jupyter Notebook 
 - **Other Skills**: Statistical analysis, machine learning
 
