@@ -10,9 +10,14 @@
 ## 🔧 Technical Skills  
 
 - **Programming Languages**: Python 
-- **Libraries & Frameworks**: Pandas, NumPy, Seaborn, Scikit-learn  
-- **Tools**: Jupyter Notebook 
+- **Libraries & Frameworks**: Pandas, NumPy, Seaborn, Scikit-learn, Streamlit, GitHub  
+- **Tools**: Jupyter Notebook, VScode
 - **Other Skills**: Statistical analysis, machine learning
+
+## 📚 This semester, I am working on the following projects:
+
+**Streamlit Application Development**: Creating an application using Streamlit to load and analyze CSV data.
+**GitHub Personal Project Repository**: Developing and managing my personal project repository to showcase my programming and development skills.
 
 ## 📂 Featured Portfolio  
 
